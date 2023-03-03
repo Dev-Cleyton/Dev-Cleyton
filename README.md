@@ -13,7 +13,7 @@
       <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </div style="color = red"><br/>
   
- - Hoje Estudando C [](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)pela Universidade do Estado de Minas Gerais UEMG
+ - Hoje Estudando C  [](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)pela Universidade do Estado de Minas Gerais UEMG
  - Hoje Estudando Java pela Universidade XTI do Ricardo Lopes Costa
   
 
